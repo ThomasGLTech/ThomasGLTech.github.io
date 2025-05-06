@@ -52,6 +52,7 @@ function changeEasterEgg(){
 }
 
 //Change
+//Change 2: David’s Change
 function downloadImgChange(downloadImg, hover){
     if(hover == true){
         downloadImg.src = 'imgs&vids/downloadGif.gif';
