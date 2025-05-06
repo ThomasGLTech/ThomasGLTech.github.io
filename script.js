@@ -51,7 +51,7 @@ function changeEasterEgg(){
     }
 }
 
-
+//Change
 function downloadImgChange(downloadImg, hover){
     if(hover == true){
         downloadImg.src = 'imgs&vids/downloadGif.gif';
